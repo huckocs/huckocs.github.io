@@ -5,7 +5,7 @@ date:   2015-10-23 15:06:25
 categories: Tom
 ---
 
-Pissing around with some new tech and decided to show off a collection of pictures from Facebook of our old friend Tom looking intoxicated with life. Such a happy camper!
+Pissing around with some new tech and reckoned you'd all enjoy a collection of pictures from Facebook of our old friend Tom looking intoxicated with life. Such a happy camper!
 
 ![My helpful screenshot](/Tom/1.jpg)
 
