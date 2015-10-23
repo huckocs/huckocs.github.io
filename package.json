@@ -1,0 +1,21 @@
+{
+  "name": "huckocs",
+  "version": "1.0.0",
+  "description": "My Blog",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:huckocs/huckocs.github.io.git"
+  },
+  "keywords": [
+    "Blog"
+  ],
+  "author": "Rob Lloyd",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  }
+}

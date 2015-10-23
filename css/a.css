@@ -1,0 +1,41 @@
+article img {
+	width: 75%;
+}
+
+a {
+	color: #6288D0; 
+}
+
+.icon {
+  width: 2em;
+  height: 2em;
+  display: inline-block;
+}
+
+body {
+  background-color: rgba(209, 193, 177, 0.18);
+  padding: 0 8em;
+  margin: 0;
+  font-family: Georgia;
+  font-size: 20px;
+  color:#171717;
+}
+
+h1 {
+	font-size: 34px;
+	font-weight: 100;
+	color: #3A3232;
+}
+
+.Main {
+  max-width: 120em;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 2em 4em;
+
+}
+.Menu_icon {
+  width: 1.5em;
+  height: 1.5em;
+  display: block;
+}
