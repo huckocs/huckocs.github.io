@@ -1,0 +1,176 @@
+
+/* Custom styles for Confluence (included for all themes by default) */
+
+#forgot-password {
+    display:none;
+}
+
+body {
+background: #ffffff;
+}
+
+p, .blog-post-listing .wiki-content, .ia-splitter li {
+font-family: 'PT Sans', sans-serif;
+font-size:16px;
+}
+
+.smaller {
+font-size:smaller;
+}
+
+.wiki-content h1 {
+font-size: 24px;
+font-weight:normal;
+line-height: 1.25;
+}
+
+.wiki-content h2 {
+font-size: 20px;
+font-weight:normal;
+line-height: 1.25;
+}
+
+.wiki-content h3 {
+font-size: 18px;
+font-weight:normal;
+line-height: 1.25;
+}
+
+.wiki-content h4,
+font-size: 16px;
+font-weight:normal;
+color:#6f6f6f;
+}
+
+.wiki-content h5 {
+font-size: 14px;
+font-weight:normal;
+color:#6f6f6f;
+}
+
+.wiki-content h6 {
+font-size: 12px;
+font-weight:normal;
+color:#6f6f6f;
+}
+
+
+#footer {
+margin-left: 0!important;
+background: #ffffff;
+}
+
+#footer .footer-body {
+margin: 0;
+padding: 5px 10px;
+text-align: center;
+background: #ffffff;
+min-height: 0;
+}
+
+#footer .footer-body>ul>li:after {
+content: "";
+margin-left: 0;
+speak: none;
+}
+
+#footer .footer-body>ul>li+li {
+display: none;
+}
+
+#footer-logo {
+display:none;
+}
+
+.theme-default .ia-splitter #main {
+margin-left: 0!important;
+}
+
+.ia-fixed-sidebar {
+display:none;
+}
+
+.page-metadata .page-metadata-modification-info {
+font-size:12px;
+}
+
+.homepageBanner h1 {
+font-size: 36px;
+color:#ffffff;
+text-shadow: 2px 2px #5D5D5D;
+}
+
+.homepageBanner  {
+text-align: center;
+margin: 15px 0; 
+padding: 20px 0; 
+width:100%;
+}
+
+ul.mainLinks {
+list-style: none;
+text-align: center;
+display: inline-block;
+padding: 0;
+width:100%;
+}
+ 
+ul.mainLinks li {
+border: 1px solid silver;
+display: inline-block;
+background: #231E1F;
+margin: 0 10px;
+}
+ 
+ul.mainLinks li a {
+padding: 10px 20px;
+color:white!important;
+display: block;
+text-decoration:none;
+transition: all 0.2s ease-in-out;
+}
+
+ul.mainLinks li a:hover,
+ul.mainLinks li a:focus,
+ul.mainLinks li a:active {
+	background-color: #ffffff;
+	color: #026873!important;
+}
+
+ul.mainLinks.wide li {
+width:98%;
+margin: 5px 0;
+}
+
+ul.mainLinks.chunky li a {
+padding: 15px 15px;
+}
+
+ul.mainLinks.hr li {
+background: #0072ed;
+}
+
+ul.mainLinks.marketing li {
+background: #026873;
+}
+ 
+ul.mainLinks.it li {
+background: #000000;
+}
+
+ul.mainLinks.sales li {
+background: ##1E583B;
+}
+
+ul.mainLinks.offices li {
+background: #990000;
+}
+
+ul.mainLinks.ed li {
+background:#ee8400;
+}
+
+
+/* End custom styles for Confluence */
+
+
