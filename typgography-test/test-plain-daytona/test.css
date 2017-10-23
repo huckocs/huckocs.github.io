@@ -1,0 +1,76 @@
+@font-face {
+  font-family: "Daytona W01 Light";
+  src: url("http://www.springernature.com/app-sn/public/fonts/ebb0caf0-6fb8-43fa-9609-54a30cb71f32.eot?#iefix");
+  src: url("http://www.springernature.com/app-sn/public/fonts/ebb0caf0-6fb8-43fa-9609-54a30cb71f32.eot?#iefix") format("eot"), url("http://www.springernature.com/app-sn/public/fonts/fdb9d008-8cf9-47b0-92b4-dd9c269fc229.woff2") format("woff2"), url("http://www.springernature.com/app-sn/public/fonts/c66b8e5c-c0a3-47f6-9780-c662e7d30fb8.woff") format("woff"), url("/app-sn/public/fonts/b544b611-e05c-4193-bb80-d423258e17f7.ttf") format("truetype"), url("http://www.springernature.com/app-sn/public/fonts/e83fcaa2-4516-44c0-aef2-17d5a82ff7e1.svg#e83fcaa2-4516-44c0-aef2-17d5a82ff7e1") format("svg"); }
+
+@font-face {
+  font-family: "Daytona W01 Regular";
+  src: url("http://www.springernature.com/app-sn/public/fonts/57eee64b-1b2b-49d5-a0fd-58dd7438d251.eot?#iefix");
+  src: url("http://www.springernature.com/app-sn/public/fonts/57eee64b-1b2b-49d5-a0fd-58dd7438d251.eot?#iefix") format("eot"), url("http://www.springernature.com/app-sn/public/fonts/eaec63df-29cb-4036-b52c-0128885fa6d8.woff2") format("woff2"), url("http://www.springernature.com/app-sn/public/fonts/81a7ca0e-9ecd-494c-b5a8-8a71dee13b8d.woff") format("woff"), url("/app-sn/public/fonts/aad4b4c7-49b1-4089-841c-64ffed447731.ttf") format("truetype"), url("http://www.springernature.com/app-sn/public/fonts/f748fe0a-1ac1-4a1d-b882-0023fc61c385.svg#f748fe0a-1ac1-4a1d-b882-0023fc61c385") format("svg"); }
+body {
+  font-weight: normal;
+  font-family: "Daytona W01 Light", sans-serif !important;
+  color: #222222;
+  line-height: 1.9;
+  font-size: 16px;
+  text-rendering: optimizeLegibility; 
+  -webkit-font-smoothing: antialiased;
+}
+
+p {
+  	font-weight: normal; 
+}
+
+a {
+  color: #147393;
+}
+
+strong,
+b {
+  font-family: "Daytona W01 Regular";
+  font-weight: normal; }
+
+h1 {
+  color: #222222;
+  font-size: 52px;
+  line-height: 1.14286;
+  font-weight: normal;
+  font-family: "Daytona W01 Light", sans-serif; }
+
+h2 {
+  color: #222222;
+  font-size: 22px;
+  line-height: 1.25;
+  font-weight: normal;
+  font-family: "Daytona W01 Light", sans-serif; }
+  h2 a {
+    float: right;
+    font-size: 50%;
+    margin-top: 1.125rem; }
+
+h3 {
+  color: #222222;
+  font-size: 20px;
+  line-height: 1.36364;
+  font-weight: normal;
+  font-family: "Daytona W01 Regular", sans-serif; }
+
+h4 {
+  color: #222222;
+  font-size: 18px;
+  line-height: 1.36364;
+  font-weight: normal;
+  font-family: "Daytona W01 Light", sans-serif; }
+
+main {
+	max-width: 48em;
+	margin: 0 auto 0 3em;
+}
+
+.t_article-subtitle  {
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+

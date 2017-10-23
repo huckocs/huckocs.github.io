@@ -1,0 +1,71 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i);
+
+body {
+  font-weight: 300;
+  font-family: "Merriweather", serif !important;
+  color: #222222;
+  line-height: 1.9;
+  font-size: 16px;
+  text-rendering: optimizeLegibility; 
+  -webkit-font-smoothing: antialiased;
+}
+
+p {
+    width: 90%;
+}
+
+a {
+  color: #147393;
+}
+
+strong,
+b {
+  font-family: "Merriweather";
+  font-weight: normal; }
+
+h1 {
+  color: #222222;
+  font-size: 52px;
+  line-height: 1.14286;
+  font-weight: 300;
+  font-family: "Merriweather", sans-serif; }
+
+h2 {
+  color: #222222;
+  font-size: 22px;
+  line-height: 1.25;
+  font-weight: normal;
+  font-family: "Roboto", sans-serif; }
+
+  h2 a {
+    float: right;
+    font-size: 50%;
+    margin-top: 1.125rem; }
+
+h3 {
+  color: #222222;
+  font-size: 20px;
+  line-height: 1.36364;
+  font-weight: normal;
+  font-family: "Roboto", sans-serif; }
+
+h4 {
+  color: #222222;
+  font-size: 18px;
+  line-height: 1.36364;
+  font-weight: normal;
+  font-family: "Roboto", sans-serif; }
+
+main {
+  max-width: 52em;
+  margin: 0 auto 0 3em;
+}
+
+.t_article-subtitle  {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.5;
+  font-family: "Roboto", sans-serif; }
+}
+
